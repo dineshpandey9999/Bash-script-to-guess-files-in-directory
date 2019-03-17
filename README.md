@@ -8,3 +8,5 @@ Enter the value which you guess the number of file in that directory.
 
 
 Mar 17, 2019 12:08:59
+
+Total No. of Lines: 24
